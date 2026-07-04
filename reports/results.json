@@ -1,0 +1,29 @@
+{
+  "residual_cnn": {
+    "model_name": "residual_cnn",
+    "accuracy": 0.23979591836734693,
+    "precision": 0.22155899973405696,
+    "recall": 0.23979591836734693,
+    "f1_score": 0.21981917482189958,
+    "model_size_mb": 1.236651,
+    "avg_inference_time_ms": 1037.5350713729858
+  },
+  "efficientnet_b0": {
+    "model_name": "efficientnet_b0",
+    "accuracy": 0.9744897959183674,
+    "precision": 0.9783446712018141,
+    "recall": 0.9744897959183674,
+    "f1_score": 0.9745308379762161,
+    "model_size_mb": 4.062631,
+    "avg_inference_time_ms": 193.66824626922607
+  },
+  "mobilenet_v3": {
+    "model_name": "mobilenet_v3",
+    "accuracy": 0.9183673469387755,
+    "precision": 0.9400972185410961,
+    "recall": 0.9183673469387755,
+    "f1_score": 0.913734222723213,
+    "model_size_mb": 3.013275,
+    "avg_inference_time_ms": 118.9957857131958
+  }
+}
